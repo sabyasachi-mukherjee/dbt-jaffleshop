@@ -1,4 +1,4 @@
-Welcome to your new dbt project!
+Welcome to your new dbt project! This one pertains to the jaffle shop data set. 
 
 ### Using the starter project
 
